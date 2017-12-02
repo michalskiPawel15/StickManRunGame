@@ -8,3 +8,11 @@ Stickman Run Game (Python)
 ```https://github.com/michalskiPawel15/StickManRunGame.git```
 
 3.Go to the directory `your/directory/StickManRunGame` and double click on `stick_game.py` file
+
+`------`
+
+Movements:
+
+left / right -> arrows on the keyboard
+
+jump -> space
